@@ -5,7 +5,7 @@ r = 10;
 s = tf('s');
 pcr = 1/(M*s + b);
 
-Kp = 100;
+Kp = 5000;
 c = pid(Kp);
 
 T = feedback(c*pcr,1)
