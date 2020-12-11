@@ -1,0 +1,7 @@
+// For Creating the model of the system
+
+https://ctms.engin.umich.edu/CTMS/index.php?example=CruiseControl&section=SimulinkControl
+
+// For the conditions to be satisfied
+
+https://ctms.engin.umich.edu/CTMS/index.php?example=CruiseControl&section=ControlPID
